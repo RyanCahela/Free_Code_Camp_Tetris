@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.grid {
+    height: 400px;
+    width: 200px;
+    background-color: #9acd32;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid_square {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border: 1px solid black;
+}
